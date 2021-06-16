@@ -35,3 +35,5 @@ CONCAT(column x,', ', column y)
 
 subtring function 
 SUBSTRING(string, start, length)
+
+Use WHERE to sort the data by dates 
