@@ -28,4 +28,10 @@ FROM SALES_SECTORS SS
 GROUP BY SS.SEC_ID, SS.SEC_NAME
 ORDER BY 1
 
-Create password with string concat 
+Create password with string concat
+
+concat function
+CONCAT(column x,', ', column y)
+
+subtring function 
+SUBSTRING(string, start, length)
